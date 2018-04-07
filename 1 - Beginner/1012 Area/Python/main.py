@@ -1,0 +1,11 @@
+PI = 3.14159
+a,b,c = input("").split()
+a = float(a)
+b= float(b)
+c= float(c)
+triangle = str(round((a*c)/2,3))
+circle = str(round(PI * (c**2),3))
+trapezium = str(round(((a+b)*c)/2,3))
+square = str(round(b**2,3))
+rect = str(round(a*b,3))
+print("TRIANGULO: "+triangle+"\nCIRCULO: "+circle+"\nTRAPEZIO: "+trapezium+"\nQUADRADO: "+square+"\nRETANGULO: "+rect)
