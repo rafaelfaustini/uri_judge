@@ -14,7 +14,7 @@ double square;
 square = pow(b,2);
 double rectangle;
 rectangle = a*b;
-printf("TRIANGULO: %.3lf\nCIRCULO: %.3lf\nTRAPEZIO: %.3lf\nQUADRADO: %.3lf\nRETANGULO: %.3lf\n ",triangle,circle,trapezium,square,rectangle);
+printf("TRIANGULO: %.3lf\nCIRCULO: %.3lf\nTRAPEZIO: %.3lf\nQUADRADO: %.3lf\nRETANGULO: %.3lf\n",triangle,circle,trapezium,square,rectangle);
 }
 
 

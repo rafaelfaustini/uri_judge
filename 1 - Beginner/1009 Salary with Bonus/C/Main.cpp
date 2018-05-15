@@ -7,7 +7,7 @@ scanf("%s", &name);
 scanf("%lf", &salary);
 scanf("%lf", &total);
 total *= 0.15;
-printf("TOTAL = R$ %.2f \n",salary+total);
+printf("TOTAL = R$ %.2f\n",salary+total);
 }
 
 

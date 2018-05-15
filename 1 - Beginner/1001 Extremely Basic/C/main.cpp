@@ -5,5 +5,5 @@ int main(void){
 	scanf("%d",&n1);
 	scanf("%d",&n2);
 	n1 += n2;
-	printf("x = %d",n1);	
+	printf("X = %d ",n1);	
 }

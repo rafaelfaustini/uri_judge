@@ -6,6 +6,6 @@ int main(void){
 	scanf("%f", &r);
 	a= r*r;
 	a*= PI;
-	printf("A=%g",a);
+	printf("A=%.4f",a);
 }
 

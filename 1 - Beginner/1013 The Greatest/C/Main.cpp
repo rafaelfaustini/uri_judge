@@ -11,7 +11,7 @@ int MaiorAB(int a, int b){
 int main(void){
 	int a,b,c;
 scanf("%d %d %d",&a,&b,&c);
-printf("%d eh o maior", MaiorAB(MaiorAB(a,b),c));
+printf("%d eh o maior\n", MaiorAB(MaiorAB(a,b),c));
 }
 
 

@@ -8,7 +8,7 @@ a*= 2;
 b*=3;
 c*=5;
 a+= b+c;
-printf("MEDIA = %.1f \n",a/10);
+printf("MEDIA = %.1f\n",a/10);
 }
 
 
