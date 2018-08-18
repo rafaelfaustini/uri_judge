@@ -1,11 +1,11 @@
 #include <stdio.h>
-#define PI 3.14159;
+
 
 int main(void){
-	float r,a;
-	scanf("%f", &r);
-	a= r*r;
-	a*= PI;
-	printf("A=%.4f",a);
+    const double PI = 3.14159;
+	double r;
+	scanf("%lf", &r);
+	printf("A=%.4f\n",(r*r)*PI);
+    return 0;
 }
 
