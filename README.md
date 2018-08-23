@@ -1,4 +1,4 @@
-# Snizer Cramer
+# URI Judge
 Repository where I solve Uri Online Judge's problems.
 
 # Contributing
