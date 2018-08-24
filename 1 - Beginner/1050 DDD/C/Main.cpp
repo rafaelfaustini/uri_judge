@@ -4,31 +4,31 @@ int a;
 scanf("%d",&a);
 switch(a){
 	case 61:
-		printf("Brasilia");
+		printf("Brasilia\n");
 		break;
 	case 71:
-		printf("Salvador");
+		printf("Salvador\n");
 		break;
 	case 11:
-		printf("Sao Paulo");
+		printf("Sao Paulo\n");
 		break;
 	case 21:
-		printf("Rio de Janeiro");
+		printf("Rio de Janeiro\n");
 		break;
 	case 32:
-		printf("Juiz de Fora");
+		printf("Juiz de Fora\n");
 		break;
 	case 19:
-		printf("Campinas");
+		printf("Campinas\n");
 		break;
 	case 27:
-		printf("Vitoria");
+		printf("Vitoria\n");
 		break;
 	case 31:
-		printf("Belo Horizonte");
+		printf("Belo Horizonte\n");
 		break;
 	default:
-		printf("DDD nao cadastrado");
+		printf("DDD nao cadastrado\n");
 }
 }
 
